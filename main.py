@@ -1,6 +1,6 @@
 import clasess as cl
 
-data = cl.JsonHandler.load_fhttps://github.com/Lorventon/first_laba_AP.gitrom_json()
+data = cl.JsonHandler.load_from_json()
 
 while True:
     choice = int(input("Здравствуйте, выберите действие: \n1-создать фильм\n2-создать сериал\
