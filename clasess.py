@@ -125,7 +125,7 @@ class JsonHandler:
             print("Данные успешно сохранены")
         pass
 
-    # Функция для чения информации из json
+    # Функция для чтения информации из json
     def load_from_json() -> dict:
         try:
             with open(filenamejson, 'r', encoding='utf-8') as f:
@@ -134,7 +134,7 @@ class JsonHandler:
             return {"movies": [], "serials": []}
 
     # Функция вывода ниформации из json
-    def print_data(data) -> None:
+    def print_data(self, data) -> None:
         print("\nДанные из JSON:")
 
         print("\nФильмы:")
@@ -150,7 +150,7 @@ class JsonHandler:
         pass
 
     # Функция записи информации в массив
-    def data_to_dict(data) -> dict:
+    def data_to_dict(self, data) -> dict:
         while True:
             choice = int(input("Что записать в массив?\n1-Фильмы\n2-Сериалы\n"))
             if choice == 1:

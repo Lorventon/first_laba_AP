@@ -17,9 +17,19 @@
       <rating>5.0</rating>
     </movie>
     <movie>
-      <title>sdf</title>
-      <duration>213</duration>
-      <rating>4.0</rating>
+      <title>Привет</title>
+      <duration>150</duration>
+      <rating>5.0</rating>
+    </movie>
+    <movie>
+      <title>Hello</title>
+      <duration>50</duration>
+      <rating>5.0</rating>
+    </movie>
+    <movie>
+      <title>Мизаил</title>
+      <duration>50</duration>
+      <rating>5.0</rating>
     </movie>
   </movies>
   <serials>
@@ -27,6 +37,11 @@
       <title>Во все тяжкие</title>
       <num_of_ep>93</num_of_ep>
       <rating>4.8</rating>
+    </serial>
+    <serial>
+      <title>ы</title>
+      <num_of_ep>1</num_of_ep>
+      <rating>1.0</rating>
     </serial>
   </serials>
 </data>

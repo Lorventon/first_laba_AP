@@ -19,6 +19,16 @@
             "title": "\u041f\u0440\u0438\u0432\u0435\u0442",
             "duration": 150,
             "rating": 5.0
+        },
+        {
+            "title": "Hello",
+            "duration": 50,
+            "rating": 5.0
+        },
+        {
+            "title": "\u041c\u0438\u0437\u0430\u0438\u043b",
+            "duration": 50,
+            "rating": 5.0
         }
     ],
     "serials": [
